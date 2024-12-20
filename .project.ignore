@@ -1,0 +1,11 @@
+[files]
+README.md
+.project*
+.gitignore
+.env
+*.out
+*.o
+
+[directories]
+.git
+tools
